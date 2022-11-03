@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Z-Lists-Enumerables", "Z-Lists-Enumerables.csproj", "{CD80AC66-1E07-47DA-9071-831A767D426A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD80AC66-1E07-47DA-9071-831A767D426A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD80AC66-1E07-47DA-9071-831A767D426A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD80AC66-1E07-47DA-9071-831A767D426A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD80AC66-1E07-47DA-9071-831A767D426A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {868BF283-354A-4688-BF26-0D59597AEF0C}
+	EndGlobalSection
+EndGlobal
